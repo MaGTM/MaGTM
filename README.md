@@ -10,3 +10,4 @@
 
 [VK](https://vk.com/magsim123)
 [Telegram](https://t.me/m4gt1m)
+Email: maxuporoff@yandex.ru
