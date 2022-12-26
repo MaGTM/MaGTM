@@ -8,8 +8,10 @@
 
 ### Contact
 
-[VK](https://vk.com/magsim123)
+[LinkedIn](https://www.linkedin.com/in/maxuporov/)
 
 [Telegram](https://t.me/m4gt1m)
+
+[VK](https://vk.com/magsim123)
 
 Email: maxuporoff@yandex.ru
