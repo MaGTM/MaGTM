@@ -26,4 +26,4 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 
 [VK](https://vk.com/magsim123)
 
-Email: maxuporoff@yandex.ru
+Email: uporoffmaxim.n@gmail.com
