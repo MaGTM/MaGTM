@@ -4,7 +4,7 @@
 
 ## About me
 
-Hi there! My name is Maxim and I am a 19-year-old frontend developer living in Astana, Kazakhstan. I am passionate about creating intuitive and visually appealing user experiences, and I am always looking for ways to improve my skills and grow as a developer.
+Hi there! My name is Maxim and I am a frontend developer living in Astana, Kazakhstan. I am passionate about creating intuitive and visually appealing user experiences, and I am always looking for ways to improve my skills and grow as a developer.
 
 I have a strong foundation in React, Redux, Material UI, SCSS, CSS modules, Jest, Storybook, TypeScript, and JavaScript. These technologies have allowed me to build efficient and scalable applications, and I am always eager to learn more about new tools and techniques in the frontend ecosystem.
 
