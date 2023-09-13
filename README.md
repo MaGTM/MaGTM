@@ -22,6 +22,4 @@ I possess strong software and well-honed hard skills. Additionally, I have two t
 
 [Telegram](https://t.me/maku_4g)
 
-[VK](https://vk.com/magsim123)
-
 Email: uporoffmaxim.n@gmail.com
