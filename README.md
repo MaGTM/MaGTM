@@ -4,15 +4,13 @@
 
 ## About me
 
-Hi there! My name is Maxim and I am a frontend developer living in Astana, Kazakhstan. I am passionate about creating intuitive and visually appealing user experiences, and I am always looking for ways to improve my skills and grow as a developer.
+Hello!
 
-I have a strong foundation in React, Redux, Material UI, SCSS, CSS modules, Jest, Storybook, TypeScript, and JavaScript. These technologies have allowed me to build efficient and scalable applications, and I am always eager to learn more about new tools and techniques in the frontend ecosystem.
+I am a front-end developer with 1.5 years of experience in developing frontend applications, including one year of commercial development.
 
-Currently, I am actively searching for a job in the field of frontend development. I am excited to bring my skills and enthusiasm to a team and contribute to the creation of meaningful projects.
+In my development work, I actively utilize the following technologies: React, NextJS, VueJS, TypeScript, Webpack, Vite, TailwindCSS, FSD, Zustand, React Query, and Redux (RTK).
 
-In my free time, I enjoy staying up to date with the latest developments in the tech industry and participating in online coding challenges and hackathons. I also enjoy playing video games and spending time with friends and family.
-
-Thank you for taking the time to learn more about me. I am excited to see what the future holds and continue to grow as a developer.
+I possess strong software and well-honed hard skills. Additionally, I have two truly exceptional skills that greatly assist me in life - high self-organization and the ability to learn continuously and rapidly. I am particularly enthusiastic about solving complex problems and seeking efficient solutions. My passion for development and my drive for professional growth always motivate me to achieve outstanding results.
 
 ### Technologies
 
