@@ -20,7 +20,7 @@ I possess strong software and well-honed hard skills. Additionally, I have two t
 
 [LinkedIn](https://www.linkedin.com/in/maxuporov/)
 
-[Telegram](https://t.me/m4gt1m)
+[Telegram](https://t.me/maku_4g)
 
 [VK](https://vk.com/magsim123)
 
